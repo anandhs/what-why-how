@@ -21,6 +21,10 @@ For every new blog post under `content/posts/`, use this structure in this exact
 
 - Include 2 to 3 high-quality references in the final section.
 - Prefer primary or official sources where possible.
+- References must be directly relevant to the post topic.
+- Do not include generic homepage links when a specific topic page is available.
+- Do not include broken links (404, removed pages, or invalid URLs).
+- Verify each reference URL before finalizing the post.
 
 ## Image Requirement
 

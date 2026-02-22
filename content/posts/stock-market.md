@@ -55,4 +55,4 @@ Key terms:
 
 - [U.S. SEC: Investor.gov Basics](https://www.investor.gov/introduction-investing)
 - [FINRA: Investing Basics](https://www.finra.org/investors/investing)
-- [NYSE: What Is the Stock Market?](https://www.nyse.com/index)
+- [U.S. SEC: Stocks](https://www.investor.gov/introduction-investing/investing-basics/investment-products/stocks)

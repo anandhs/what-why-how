@@ -57,4 +57,4 @@ Common technical areas include:
 
 - [NIBIB (NIH): Biomedical Engineering](https://www.nibib.nih.gov/science-education/science-topics/biomedical-engineering)
 - [BLS: Biomedical Engineers](https://www.bls.gov/ooh/architecture-and-engineering/biomedical-engineers.htm)
-- [IEEE EMBS (Engineering in Medicine and Biology Society)](https://www.embs.org/)
+- [IEEE EMBS: About EMBS](https://www.embs.org/about-embs/)

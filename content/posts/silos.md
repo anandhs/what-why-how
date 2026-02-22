@@ -50,4 +50,3 @@ Good packing and sealing are critical. Too much air can cause mold, heat damage,
 
 - [Penn State Extension: Silage and forage management](https://extension.psu.edu/forage-and-pasture)
 - [University of Wisconsin Extension: Silage management resources](https://fyi.extension.wisc.edu/forage/)
-- [FAO: Silage making and preservation](https://www.fao.org/)
