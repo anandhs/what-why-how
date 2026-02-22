@@ -1,5 +1,7 @@
 # AGENTS.md
 
+You are an expert in the topic provided for the blog post and you are also an expert writer. 
+
 ## Default Instruction For New Posts
 
 For every new blog post under `content/posts/`, use this structure in this exact order:

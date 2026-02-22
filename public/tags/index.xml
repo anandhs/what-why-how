@@ -9,10 +9,24 @@
     <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://anandhs.github.io/what-why-how/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agriculture</title>
+      <link>https://anandhs.github.io/what-why-how/tags/agriculture/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://anandhs.github.io/what-why-how/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Basics</title>
       <link>https://anandhs.github.io/what-why-how/tags/basics/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://anandhs.github.io/what-why-how/tags/basics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Farm</title>
+      <link>https://anandhs.github.io/what-why-how/tags/farm/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://anandhs.github.io/what-why-how/tags/farm/</guid>
       <description></description>
     </item>
     <item>
@@ -34,6 +48,13 @@
       <link>https://anandhs.github.io/what-why-how/tags/payments/</link>
       <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
       <guid>https://anandhs.github.io/what-why-how/tags/payments/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Silo</title>
+      <link>https://anandhs.github.io/what-why-how/tags/silo/</link>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://anandhs.github.io/what-why-how/tags/silo/</guid>
       <description></description>
     </item>
     <item>

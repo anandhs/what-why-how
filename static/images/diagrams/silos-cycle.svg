@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="860" viewBox="0 0 1600 860" role="img" aria-labelledby="title desc">
+  <title id="title">Farm silo silage process diagram</title>
+  <desc id="desc">Flow showing harvest, chop, pack, seal, ferment, and feed-out from a farm silo.</desc>
+  <rect width="1600" height="860" fill="#f8faf5"/>
+
+  <text x="80" y="88" fill="#1f2937" font-family="Verdana, Arial, sans-serif" font-size="46" font-weight="700">How Farm Silage Storage Works</text>
+
+  <defs>
+    <marker id="arr" markerWidth="10" markerHeight="10" refX="9" refY="5" orient="auto-start-reverse">
+      <path d="M0,0 L10,5 L0,10 Z" fill="#374151"/>
+    </marker>
+  </defs>
+
+  <g font-family="Verdana, Arial, sans-serif" font-size="24" fill="#111827">
+    <rect x="100" y="170" width="220" height="110" rx="12" fill="#d9f99d" stroke="#65a30d"/>
+    <text x="145" y="235">Harvest crop</text>
+
+    <rect x="370" y="170" width="220" height="110" rx="12" fill="#fde68a" stroke="#ca8a04"/>
+    <text x="425" y="235">Chop forage</text>
+
+    <rect x="640" y="170" width="250" height="110" rx="12" fill="#bfdbfe" stroke="#2563eb"/>
+    <text x="682" y="235">Pack in silo</text>
+
+    <rect x="940" y="170" width="220" height="110" rx="12" fill="#ddd6fe" stroke="#7c3aed"/>
+    <text x="1002" y="235">Seal well</text>
+
+    <rect x="1210" y="170" width="280" height="110" rx="12" fill="#fecaca" stroke="#dc2626"/>
+    <text x="1240" y="235">Ferment (low oxygen)</text>
+  </g>
+
+  <g stroke="#374151" stroke-width="4" marker-end="url(#arr)" fill="none">
+    <line x1="320" y1="225" x2="370" y2="225"/>
+    <line x1="590" y1="225" x2="640" y2="225"/>
+    <line x1="890" y1="225" x2="940" y2="225"/>
+    <line x1="1160" y1="225" x2="1210" y2="225"/>
+  </g>
+
+  <g>
+    <rect x="120" y="370" width="320" height="360" rx="16" fill="#e5f3ff" stroke="#3b82f6" stroke-width="4"/>
+    <rect x="250" y="430" width="60" height="260" fill="#bcdcff"/>
+    <rect x="190" y="640" width="180" height="30" fill="#7aa44c"/>
+    <text x="172" y="410" fill="#1f2937" font-family="Verdana, Arial, sans-serif" font-size="28" font-weight="700">Tower Silo</text>
+    <text x="160" y="760" fill="#334155" font-family="Verdana, Arial, sans-serif" font-size="22">Stored silage</text>
+  </g>
+
+  <g font-family="Verdana, Arial, sans-serif" fill="#1f2937">
+    <text x="520" y="440" font-size="34" font-weight="700">Feed-out</text>
+    <text x="520" y="490" font-size="24">Open and remove from</text>
+    <text x="520" y="525" font-size="24">the face gradually.</text>
+    <text x="520" y="590" font-size="24">Keep exposed surface</text>
+    <text x="520" y="625" font-size="24">clean to limit spoilage.</text>
+  </g>
+
+  <g stroke="#374151" stroke-width="4" marker-end="url(#arr)" fill="none">
+    <line x1="1470" y1="280" x2="430" y2="430"/>
+  </g>
+
+  <text x="80" y="820" fill="#475569" font-family="Verdana, Arial, sans-serif" font-size="22">Key idea: remove oxygen, seal well, and preserve feed quality through controlled fermentation.</text>
+</svg>
