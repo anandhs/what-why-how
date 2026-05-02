@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+  <title id="title">How a car is manufactured</title>
+  <desc id="desc">A simple flow diagram showing press shop, body shop, paint shop, sub-assembly, final assembly, and testing and shipping.</desc>
+  <defs>
+    <style>
+      .bg { fill: #fcfaf6; }
+      .title { font: 700 34px Georgia, serif; fill: #20140b; }
+      .subtitle { font: 400 18px Arial, sans-serif; fill: #6f5c48; }
+      .box-title { font: 700 20px Arial, sans-serif; fill: #20140b; }
+      .box-text { font: 400 15px Arial, sans-serif; fill: #3f2f22; }
+      .arrow { stroke: #c89010; stroke-width: 5; fill: none; marker-end: url(#arrowhead); }
+      .small-arrow { stroke: #8d7a67; stroke-width: 4; fill: none; marker-end: url(#arrowheadSmall); }
+      .press { fill: #fff1e5; stroke: #e8720c; }
+      .body { fill: #ebf7f3; stroke: #2e7d6b; }
+      .paint { fill: #fff5df; stroke: #c89010; }
+      .sub { fill: #f3eefc; stroke: #5b3fa0; }
+      .final { fill: #fdecea; stroke: #c0392b; }
+      .test { fill: #f4f0e8; stroke: #7a6855; }
+    </style>
+    <marker id="arrowhead" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto">
+      <polygon points="0,0 10,5 0,10" fill="#c89010"/>
+    </marker>
+    <marker id="arrowheadSmall" markerWidth="9" markerHeight="9" refX="7" refY="4.5" orient="auto">
+      <polygon points="0,0 9,4.5 0,9" fill="#8d7a67"/>
+    </marker>
+  </defs>
+
+  <rect class="bg" width="1200" height="520" rx="24"/>
+
+  <text x="60" y="58" class="title">How a Car Is Manufactured</text>
+  <text x="60" y="88" class="subtitle">A simplified view of the main factory stages</text>
+
+  <rect x="60" y="135" width="150" height="120" rx="18" class="press" stroke-width="3"/>
+  <text x="85" y="170" class="box-title">1. Press Shop</text>
+  <text x="85" y="200" class="box-text">Steel and aluminum</text>
+  <text x="85" y="222" class="box-text">are stamped into</text>
+  <text x="85" y="244" class="box-text">body panels</text>
+
+  <rect x="250" y="135" width="150" height="120" rx="18" class="body" stroke-width="3"/>
+  <text x="276" y="170" class="box-title">2. Body Shop</text>
+  <text x="276" y="200" class="box-text">Panels are joined</text>
+  <text x="276" y="222" class="box-text">into the car's</text>
+  <text x="276" y="244" class="box-text">main body shell</text>
+
+  <rect x="440" y="135" width="150" height="120" rx="18" class="paint" stroke-width="3"/>
+  <text x="466" y="170" class="box-title">3. Paint Shop</text>
+  <text x="466" y="200" class="box-text">Body is cleaned,</text>
+  <text x="466" y="222" class="box-text">coated, painted,</text>
+  <text x="466" y="244" class="box-text">and sealed</text>
+
+  <rect x="820" y="135" width="180" height="120" rx="18" class="final" stroke-width="3"/>
+  <text x="844" y="170" class="box-title">5. Final Assembly</text>
+  <text x="844" y="200" class="box-text">Interior, wiring, glass,</text>
+  <text x="844" y="222" class="box-text">wheels, fluids, and</text>
+  <text x="844" y="244" class="box-text">major systems installed</text>
+
+  <rect x="1030" y="135" width="130" height="120" rx="18" class="test" stroke-width="3"/>
+  <text x="1048" y="170" class="box-title">6. Test</text>
+  <text x="1048" y="192" class="box-title">&amp; Ship</text>
+  <text x="1048" y="220" class="box-text">Inspect, test,</text>
+  <text x="1048" y="242" class="box-text">then deliver</text>
+
+  <rect x="635" y="320" width="240" height="120" rx="18" class="sub" stroke-width="3"/>
+  <text x="664" y="355" class="box-title">4. Sub-Assembly</text>
+  <text x="664" y="385" class="box-text">Seats, dashboard, doors,</text>
+  <text x="664" y="407" class="box-text">engine or battery, and</text>
+  <text x="664" y="429" class="box-text">suspension prepared in parallel</text>
+
+  <path d="M210 195 L250 195" class="arrow"/>
+  <path d="M400 195 L440 195" class="arrow"/>
+  <path d="M590 195 L820 195" class="arrow"/>
+  <path d="M1000 195 L1030 195" class="arrow"/>
+
+  <path d="M755 320 L755 260" class="small-arrow"/>
+  <path d="M875 320 Q900 295 910 255" class="small-arrow"/>
+
+  <text x="646" y="294" class="subtitle">Parts arrive just in time for assembly</text>
+
+  <rect x="60" y="320" width="450" height="120" rx="18" fill="#fff" stroke="#e7ddcf" stroke-width="2"/>
+  <text x="85" y="356" class="box-title">A key moment: the "marriage"</text>
+  <text x="85" y="388" class="box-text">This is when the painted body is joined with the lower assembly</text>
+  <text x="85" y="410" class="box-text">that holds major systems such as the powertrain, suspension,</text>
+  <text x="85" y="432" class="box-text">axles, and other structural components.</text>
+</svg>

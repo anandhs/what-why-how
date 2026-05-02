@@ -6,8 +6,22 @@
     <description>Recent content in Learn on what why and how</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 17 Feb 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 02 May 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://anandhs.github.io/what-why-how/categories/learn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How Is a Car Manufactured?</title>
+      <link>https://anandhs.github.io/what-why-how/posts/how-a-car-is-manufactured/</link>
+      <pubDate>Sat, 02 May 2026 00:00:00 +0000</pubDate>
+      <guid>https://anandhs.github.io/what-why-how/posts/how-a-car-is-manufactured/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Car manufacturing is the process of turning raw materials and thousands of individual parts into a finished vehicle.&lt;/p&gt;&#xA;&lt;p&gt;A modern car factory does not build a car all at once. It builds the car in stages:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;large metal sheets are shaped into body panels&lt;/li&gt;&#xA;&lt;li&gt;those panels are joined into the car&amp;rsquo;s body&lt;/li&gt;&#xA;&lt;li&gt;the body is painted and protected from rust&lt;/li&gt;&#xA;&lt;li&gt;the engine, battery, seats, glass, wiring, and other parts are installed&lt;/li&gt;&#xA;&lt;li&gt;the finished vehicle is tested before shipping&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Most mass-produced cars follow a similar factory flow, even though brands use different machines, layouts, and levels of automation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>What Is Generative AI?</title>
+      <link>https://anandhs.github.io/what-why-how/posts/gen-ai/</link>
+      <pubDate>Wed, 25 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>https://anandhs.github.io/what-why-how/posts/gen-ai/</guid>
+      <description>&lt;h2 id=&#34;what-it-is&#34;&gt;What it is&lt;/h2&gt;&#xA;&lt;p&gt;Generative AI (Gen AI) is software that creates new content from patterns in data.&lt;/p&gt;&#xA;&lt;p&gt;Depending on the model, that content can be:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;text&lt;/li&gt;&#xA;&lt;li&gt;images&lt;/li&gt;&#xA;&lt;li&gt;code&lt;/li&gt;&#xA;&lt;li&gt;audio&lt;/li&gt;&#xA;&lt;li&gt;video&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;A useful way to think about it: Gen AI does not &amp;ldquo;look up&amp;rdquo; one exact answer. It predicts a likely next piece of content based on what it learned during training and what you ask in your prompt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why&#34;&gt;Why&lt;/h2&gt;&#xA;&lt;p&gt;Gen AI matters because it can reduce the time needed for creative and knowledge work.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>How Do Visa and Mastercard Work?</title>
       <link>https://anandhs.github.io/what-why-how/posts/how-visa-mastercard-work/</link>
